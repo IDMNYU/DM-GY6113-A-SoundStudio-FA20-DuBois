@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 52.0, 79.0, 1493.0, 672.0 ],
+		"rect" : [ 58.0, 139.0, 1164.0, 503.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 18.0,
@@ -4383,6 +4383,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-105", 0 ],
+					"hidden" : 1,
 					"order" : 22,
 					"source" : [ "obj-4", 0 ]
 				}
@@ -4391,6 +4392,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-110", 0 ],
+					"hidden" : 1,
 					"order" : 20,
 					"source" : [ "obj-4", 0 ]
 				}
@@ -4399,6 +4401,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-114", 0 ],
+					"hidden" : 1,
 					"order" : 16,
 					"source" : [ "obj-4", 0 ]
 				}
@@ -4407,6 +4410,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-115", 0 ],
+					"hidden" : 1,
 					"order" : 17,
 					"source" : [ "obj-4", 0 ]
 				}
@@ -4415,6 +4419,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-128", 0 ],
+					"hidden" : 1,
 					"order" : 14,
 					"source" : [ "obj-4", 0 ]
 				}
@@ -4423,6 +4428,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-134", 0 ],
+					"hidden" : 1,
 					"order" : 13,
 					"source" : [ "obj-4", 0 ]
 				}
@@ -4431,6 +4437,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-147", 0 ],
+					"hidden" : 1,
 					"order" : 9,
 					"source" : [ "obj-4", 0 ]
 				}
@@ -4439,6 +4446,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-153", 0 ],
+					"hidden" : 1,
 					"order" : 6,
 					"source" : [ "obj-4", 0 ]
 				}
@@ -4447,6 +4455,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-160", 0 ],
+					"hidden" : 1,
 					"order" : 5,
 					"source" : [ "obj-4", 0 ]
 				}
@@ -4455,6 +4464,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-169", 0 ],
+					"hidden" : 1,
 					"order" : 2,
 					"source" : [ "obj-4", 0 ]
 				}
@@ -4463,6 +4473,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-177", 0 ],
+					"hidden" : 1,
 					"order" : 8,
 					"source" : [ "obj-4", 0 ]
 				}
@@ -4471,6 +4482,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-191", 0 ],
+					"hidden" : 1,
 					"order" : 7,
 					"source" : [ "obj-4", 0 ]
 				}
@@ -4479,6 +4491,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-192", 0 ],
+					"hidden" : 1,
 					"order" : 11,
 					"source" : [ "obj-4", 0 ]
 				}
@@ -4487,6 +4500,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-211", 0 ],
+					"hidden" : 1,
 					"order" : 19,
 					"source" : [ "obj-4", 0 ]
 				}
@@ -4495,6 +4509,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-223", 0 ],
+					"hidden" : 1,
 					"order" : 4,
 					"source" : [ "obj-4", 0 ]
 				}
@@ -4503,6 +4518,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-228", 0 ],
+					"hidden" : 1,
 					"order" : 3,
 					"source" : [ "obj-4", 0 ]
 				}
@@ -4511,6 +4527,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-231", 0 ],
+					"hidden" : 1,
 					"order" : 1,
 					"source" : [ "obj-4", 0 ]
 				}
@@ -4519,6 +4536,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-234", 0 ],
+					"hidden" : 1,
 					"order" : 0,
 					"source" : [ "obj-4", 0 ]
 				}
@@ -4527,6 +4545,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-255", 0 ],
+					"hidden" : 1,
 					"order" : 10,
 					"source" : [ "obj-4", 0 ]
 				}
@@ -4535,6 +4554,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-58", 0 ],
+					"hidden" : 1,
 					"order" : 15,
 					"source" : [ "obj-4", 0 ]
 				}
@@ -4543,6 +4563,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-69", 0 ],
+					"hidden" : 1,
 					"order" : 18,
 					"source" : [ "obj-4", 0 ]
 				}
@@ -4551,6 +4572,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-90", 0 ],
+					"hidden" : 1,
 					"order" : 21,
 					"source" : [ "obj-4", 0 ]
 				}
@@ -4559,6 +4581,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-95", 0 ],
+					"hidden" : 1,
 					"order" : 12,
 					"source" : [ "obj-4", 0 ]
 				}

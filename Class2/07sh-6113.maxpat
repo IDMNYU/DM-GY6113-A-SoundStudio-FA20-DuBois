@@ -119,6 +119,10 @@
 							"number" : 7,
 							"data" : [ 5, "obj-234", "slider", "float", 0.639487206935883, 5, "obj-231", "slider", "float", 0.922853350639343, 5, "obj-169", "slider", "float", 0.443762719631195, 5, "obj-228", "slider", "float", 0.456873446702957, 5, "obj-223", "slider", "float", 0.004469273611903, 5, "obj-160", "slider", "float", 6.727936267852783, 5, "obj-153", "slider", "float", 21.205282211303711, 5, "obj-191", "slider", "float", 1.992443561553955, 5, "obj-177", "slider", "float", 77.839378356933594, 5, "obj-147", "slider", "float", 23.831724166870117, 5, "obj-255", "umenu", "int", 0, 5, "obj-192", "umenu", "int", 1, 5, "obj-95", "slider", "float", 0.097167953848839, 5, "obj-134", "umenu", "int", 1, 5, "obj-128", "slider", "float", 0.122356057167053, 5, "obj-58", "dial", "float", 110.119049072265625, 5, "obj-114", "slider", "float", 0.0, 5, "obj-115", "umenu", "int", 2, 5, "obj-69", "slider", "float", 0.0, 5, "obj-211", "umenu", "int", 0, 5, "obj-110", "slider", "float", 0.69864696264267, 5, "obj-90", "umenu", "int", 3, 5, "obj-105", "slider", "float", 0.710950374603271 ]
 						}
+, 						{
+							"number" : 8,
+							"data" : [ 5, "obj-234", "slider", "float", 0.93696516752243, 5, "obj-231", "slider", "float", 0.81790292263031, 5, "obj-169", "slider", "float", 0.644331037998199, 5, "obj-228", "slider", "float", 0.47976878285408, 5, "obj-223", "slider", "float", 0.089611522853374, 5, "obj-160", "slider", "float", 14.561823844909668, 5, "obj-153", "slider", "float", 21.205282211303711, 5, "obj-191", "slider", "float", 0.462427735328674, 5, "obj-177", "slider", "float", 77.839378356933594, 5, "obj-147", "slider", "float", 13.947977066040039, 5, "obj-255", "umenu", "int", 0, 5, "obj-192", "umenu", "int", 0, 5, "obj-95", "slider", "float", 0.097167953848839, 5, "obj-134", "umenu", "int", 2, 5, "obj-128", "slider", "float", 0.0, 5, "obj-58", "dial", "float", 110.119049072265625, 5, "obj-114", "slider", "float", 0.728323698043823, 5, "obj-115", "umenu", "int", 2, 5, "obj-69", "slider", "float", 0.573513746261597, 5, "obj-211", "umenu", "int", 0, 5, "obj-110", "slider", "float", 0.0, 5, "obj-90", "umenu", "int", 3, 5, "obj-105", "slider", "float", 0.710950374603271 ]
+						}
  ]
 				}
 
@@ -956,7 +960,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1014.0, 1101.0, 46.0, 27.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1193.0, 16.0, 46.0, 27.0 ],
+					"presentation_rect" : [ 1088.5, 16.0, 46.0, 27.0 ],
 					"text" : "ENV"
 				}
 

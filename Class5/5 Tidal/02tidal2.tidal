@@ -1,0 +1,28 @@
+-- simple sequences of notes
+d1 $ n "c a f e"
+  # sound "supermandolin"
+
+-- play one per cycle
+d1 $ n "<c a f e>"
+  # sound "supermandolin"
+
+-- on top of that, put a copy of the sequence, offset in time and pitch:
+d1 $ n (off 0.125 (|+ 7) "<c a f e>")
+  # sound "supermandolin"
+
+-- add some structure to the original sequence
+d1 $ n (off 0.125 (|+ 7)  "<c*2 a(3,8) f(3,8,2) e*2>")
+  # sound "supermandolin"
+  # legato 2
+
+-- reverse in one speaker
+d1 $ jux rev $ n (off 0.125 (|+ 7)  "<c*2 a(3,8) f(3,8,2) e*2>")
+  # sound "supermandolin"
+  # legato 2
+
+-- add another layer
+d1 $ jux rev $ n (off 0.125 (|+ 12) $ off 0.125 (|+ 7)  "<c*2 a(3,8) f(3,8,2) e*2>")
+  # sound "supermandolin"
+  # legato 2
+
+d1 silence

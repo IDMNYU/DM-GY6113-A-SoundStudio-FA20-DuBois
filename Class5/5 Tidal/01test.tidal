@@ -1,0 +1,18 @@
+setcps 1
+
+d1 $ sound "bd sn bd sn bd sn:3 bd:5 sn:5"
+
+d1 $ sound "bd sn:1"
+d1 $ sound "[bd sn:1, bd bd bd]"
+d1 $ sound "[bd bd bd] sn"
+
+d2 $ sound "hh hh hh hh"
+d2 $ sound "[hh hh] hh hh hh"
+
+d3 $ sound "arpy"
+
+d1 silence
+
+d2 silence
+
+d3 silence
